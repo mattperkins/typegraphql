@@ -5,7 +5,15 @@
 ## yarn start 
 
 # ENDPOINTS 
-## localhost: 
+## SERVER
+### localhost:4000
 
 # DEPLOY 
 ## yarn build
+
+
+### DATABASE
+#### provision
+```
+createdb typegql
+```
